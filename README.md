@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔥 About Me
 🌱 I’m currently learning Data Science,React,Angular.js,MERN Stack<br><br>💬 Ask me about React,JavaScript,DataVisulization,HTML,CSS,Springboot,Django<br><br>📫 How to reach me myself.pratyush@outlook.com
 
 
