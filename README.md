@@ -1,5 +1,4 @@
 # 🔥 About Me
-@@ -57,18 +57,14 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 🌱 I’m currently learning Data Science,React,Angular.js,MERN Stack<br><br>💬 Ask me about React,JavaScript,DataVisulization,HTML,CSS,Springboot,Django<br><br>📫 reach me myself.pratyush@outlook.com
 
 
